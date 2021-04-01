@@ -1,5 +1,5 @@
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=About&width=400&height=200)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=About&width=400&height=150)](https://github.com/Akshay090/svg-banners)
 
 - 👋 Hi, I’m ... **@milesrack**
 - 👀 I’m interested in ... **cybersecurity and programming**
