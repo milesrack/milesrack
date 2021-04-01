@@ -1,13 +1,14 @@
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=About&width=400&height=150)](https://github.com/Akshay090/svg-banners)
-
+## About Me
 - 👋 Hi, I’m ... **@milesrack**
 - 👀 I’m interested in ... **cybersecurity and programming**
 - 🌱 I’m currently learning ... **Security+**
 - 💞️ I’m looking to collaborate on ... **anything involving Python 🐍**
 
+## GitHub Stats
 [![milesrack's GitHub stats](https://github-readme-stats.vercel.app/api?username=milesrack&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milesrack&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me:
