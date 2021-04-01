@@ -19,4 +19,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milesrack&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me:
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> [linkedin](https://linkedin.com/in/milesrack)
+<a href="https://linkedin.com/in/milesrack"><img alt="LinkedIn" width="22" height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
