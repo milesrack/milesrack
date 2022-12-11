@@ -1,9 +1,3 @@
-## About Me
-- 👋 Hi, I’m... **@milesrack**
-- 👀 I’m interested in... **cybersecurity and programming**
-- 🌱 I’m currently learning... **Security+**
-- 💞️ I’m looking to collaborate on... **open source projects**
-
 ## Technologies and Tools
 <span>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -25,4 +19,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milesrack&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me:
-<a href="https://linkedin.com/in/milesrack"><img alt="LinkedIn" width="22" height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+<a href="https://linkedin.com/in/milesrack"><img alt="LinkedIn" width="22" height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="fill: #0077b5"/></a>
