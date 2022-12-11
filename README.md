@@ -17,6 +17,3 @@
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milesrack&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-## Connect with me:
-<a href="https://linkedin.com/in/milesrack"><img alt="LinkedIn" width="22" height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="fill: #0077b5"/></a>
